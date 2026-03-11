@@ -34,4 +34,4 @@ sudo rm -rf *
 
 (Don't forget to replace the URL with your actual Repository link!)
 # Bash
-sudo git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git) .
+sudo git clone https://github.com/nisitenrmutt/DemoEC2Cafewebser.git .
