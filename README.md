@@ -19,7 +19,7 @@ sudo yum install git -y
 sudo systemctl start httpd
 sudo systemctl enable httpd
 
-📂 Step 2: Clone the Repository and Deploy
+### 📂 Step 2: Clone the Repository and Deploy
 Now that the server is ready, let's pull your code from GitHub to make it live.
 
 '**1. Navigate to the web root directory:**' (By default, Apache serves files from /var/www/html)
