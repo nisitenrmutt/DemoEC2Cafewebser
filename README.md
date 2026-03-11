@@ -22,15 +22,15 @@ sudo systemctl enable httpd
 📂 Step 2: Clone the Repository and Deploy
 Now that the server is ready, let's pull your code from GitHub to make it live.
 
-Navigate to the web root directory: (By default, Apache serves files from /var/www/html)
+**1. Navigate to the web root directory:** (By default, Apache serves files from /var/www/html)
 
 # Bash
 cd /var/www/html
-Clean up existing files: ⚠️ Warning: This command will permanently delete all files in the current folder.
+**2. Clean up existing files:** ⚠️ Warning: This command will permanently delete all files in the current folder.
 
 # Bash
 sudo rm -rf *
-Clone your repository: Run the command below to pull your project files.
+** 3. Clone your repository:** Run the command below to pull your project files.
 
 (Don't forget to replace the URL with your actual Repository link!)
 # Bash
