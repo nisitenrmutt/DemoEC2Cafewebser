@@ -35,3 +35,4 @@ sudo rm -rf *
 (Don't forget to replace the URL with your actual Repository link!)
 # Bash
 sudo git clone https://github.com/nisitenrmutt/DemoEC2Cafewebser.git .
+# Note the '.' at the end to clone contents into the current directory.
